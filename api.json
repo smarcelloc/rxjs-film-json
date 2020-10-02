@@ -1,5 +1,5 @@
 {
-    "films":[
+    "films": [
         {
             "Title": "Avatar",
             "Year": "2009",
@@ -9,7 +9,7 @@
             "Genre": "Action, Adventure, Fantasy",
             "Director": "James Cameron",
             "Writer": "James Cameron",
-            "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+            "Actors": "Sam Worthington, Zoe Saldana",
             "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
             "Language": "English, Spanish",
             "Country": "USA, UK",
